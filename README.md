@@ -17,7 +17,7 @@ InferencePLQM(x, z, y, tau, is.split=FALSE, is.screen=FALSE, seed.fix)
 - `y`: The response variable, with length n.
 - `tau`: The quantile level.
 - `is.split`: A logical value indicating whether to perform data splitting for testing.
-- `is.screen`: A logical value indicating whether to apply the CQ-SIS screening procedure implemented by function `CQSIS`, where `cn` is the screening number
+- `is.screen`: A logical value indicating whether to apply the CQ-SIS screening procedure implemented by function `CQSIS`, where `cn` is the screening number.
 - `seed.fix`: A fixed seed value for reproducibility when data splitting is used.
 
 ## Examples
