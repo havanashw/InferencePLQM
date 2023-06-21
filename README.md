@@ -1,5 +1,5 @@
 # InferencePLQM
-R code for "Inference for partially linear quantile regression models in ultrahigh dimension".
+R code for "Inference for partially linear quantile regression models in ultrahigh dimension". If you are interested in the Neural Network estimation used in the simulations, please contact the author for the Python code.
 
 ## Usage
 
