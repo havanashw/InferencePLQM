@@ -9,7 +9,6 @@ InferencePLQM(x, z, y, tau, is.split=FALSE, is.screen=FALSE, seed.fix)
 
 ## Required Packages
 - `quantreg`
-- `MASS`
 
 ## Inputs
 - `x`: A matrix of n*d, where n is the sample size and d is the dimension of interested covariates.
