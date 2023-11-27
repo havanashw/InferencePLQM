@@ -1,5 +1,4 @@
 library(quantreg)
-library(MASS)
 
 # screening procedure: CQ-SIS
 CQSIS <- function(x, y, tau, cn) {
