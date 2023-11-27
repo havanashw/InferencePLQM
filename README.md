@@ -23,7 +23,7 @@ InferencePLQM(x, z, y, tau, is.split=FALSE, is.screen=FALSE, seed.fix)
 ## Examples
 ```{R}
 library(quantreg)
-library(parallel)
+library(MASS)
 source("InferencePLQM.R")
 
 # setting
